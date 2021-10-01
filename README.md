@@ -1,4 +1,4 @@
-# Hacktoberfest 2020 - Newbie
+# Hacktoberfest 2021 - Newbie
 
 This is a beginner-friendly project to help you get started with your
 [hacktoberfest](https://hacktoberfest.digitalocean.com/). If you don't
@@ -120,14 +120,14 @@ class *YOUR USERNAME* {
 - Who can contribute?
   - Anyone with a github account and who is signed up for [hacktoberfest](https://hacktoberfest.digitalocean.com/) :).
 
-- How many pull request (PR) must be made, if I can get an awesome shirt from Hacktoberfest 2020?
+- How many pull request (PR) must be made, if I can get an awesome shirt from Hacktoberfest 2021?
   - 5
 
-- How do I track my progress to get an awesome shirt from Hacktoberfest 2020?
+- How do I track my progress to get an awesome shirt from Hacktoberfest 2021?
   - go to : [https://hacktoberfest.digitalocean.com/stats/](https://hacktoberfest.digitalocean.com/stats/)
 
-- What is the duration of Hacktoberfest 2020?
-  - It is from 1st october to 31st october 2020.
+- What is the duration of Hacktoberfest 2021?
+  - It is from 1st october to 31st october 2021.
 
 - What is the event for?
   - For the open source community engagement.
